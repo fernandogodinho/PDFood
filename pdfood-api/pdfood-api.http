@@ -1,0 +1,6 @@
+@pdfood_api_HostAddress = http://localhost:7213
+
+GET {{pdfood_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
